@@ -1,9 +1,10 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.svg',
-    fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
+    Name: 'Estrategia comercial y gestión de marca',
+    Description:
+      'El componente formativo desarrolla competencias para analizar el entorno organizacional y estructurar estrategias de mercadeo orientadas a la promoción de ventas. Integra diagnóstico organizacional, mercadeo, mezcla de mercadeo, segmentación, posicionamiento y plan comercial. Asimismo, aborda comunicación comercial, identidad de marca, <em>branding</em> y campañas promocionales, incorporando herramientas de <em>marketing</em> digital y plataformas comerciales para fortalecer el posicionamiento y la gestión estratégica de las marcas.',
+    imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
+    fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.svg',
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -31,17 +32,9 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Diagnóstico organizacional',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Subtema 1',
-            hash: 't_1_1',
-          },
-        ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
@@ -52,6 +45,108 @@ export default {
         nombreRuta: 'tema3',
         numero: '3',
         titulo: 'Tema 3',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Diagnóstico organizacional',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Tema 2',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Tema 3',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo: 'Diagnóstico organizacional',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema8',
+        numero: '8',
+        titulo: 'Tema 2',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema9',
+        numero: '9',
+        titulo: 'Tema 3',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema10',
+        numero: '10',
+        titulo: 'Diagnóstico organizacional',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema11',
+        numero: '11',
+        titulo: 'Tema 2',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema12',
+        numero: '12',
+        titulo: 'Tema 3',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema13',
+        numero: '13',
+        titulo: 'Diagnóstico organizacional',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema14',
+        numero: '14',
+        titulo: 'Tema 2',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema15',
+        numero: '15',
+        titulo: 'Tema 3',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema16',
+        numero: '16',
+        titulo: 'Diagnóstico organizacional',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema17',
+        numero: '17',
+        titulo: 'Tema 2',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema18',
+        numero: '18',
+        titulo: 'Tema 3',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema19',
+        numero: '19',
+        titulo: 'Diagnóstico organizacional',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema20',
+        numero: '20',
+        titulo: 'Tema 2',
         desarrolloContenidos: true,
       },
     ],
