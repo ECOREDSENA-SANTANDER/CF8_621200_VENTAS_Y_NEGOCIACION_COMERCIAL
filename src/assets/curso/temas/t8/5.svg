@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="133.587" height="131.53" viewBox="0 0 133.587 131.53">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.395" y1="0.156" x2="1.126" y2="-0.576" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a7f3ce"/>
+      <stop offset="1" stop-color="#61db99"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_1205215" data-name="Grupo 1205215" transform="translate(-412.413 -3592.34)">
+    <g id="Grupo_1100811" data-name="Grupo 1100811" transform="translate(1.075 935.562)">
+      <path id="Rectángulo_401150" data-name="Rectángulo 401150" d="M59,0H89a0,0,0,0,1,0,0V91a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V59A59,59,0,0,1,59,0Z" transform="translate(411.337 2656.778)" fill="#fff"/>
+      <g id="Grupo_1204798" data-name="Grupo 1204798" transform="translate(423.027 2661.232)">
+        <path id="Trazado_1265949" data-name="Trazado 1265949" d="M213.605,164.117a40.267,40.267,0,0,1,39.919,48.933,72.969,72.969,0,0,0-1.817,15.712v10.225a2.836,2.836,0,0,1-2.837,2.837H238.646a72.97,72.97,0,0,0-15.712,1.817,40.24,40.24,0,1,1-9.328-79.524Z" transform="translate(-132.571 -117.51)" fill="url(#linear-gradient)"/>
+        <path id="Trazado_1265950" data-name="Trazado 1265950" d="M213.605,164.117a40.267,40.267,0,0,1,39.919,48.933,72.969,72.969,0,0,0-1.817,15.712v10.225a2.836,2.836,0,0,1-2.837,2.837H238.646a72.97,72.97,0,0,0-15.712,1.817,40.24,40.24,0,1,1-9.328-79.524Z" transform="translate(-132.571 -117.51)" fill="#88a160"/>
+        <path id="Trazado_1265951" data-name="Trazado 1265951" d="M49.782,9.89A49.054,49.054,0,0,0,1.15,69.5,88.905,88.905,0,0,1,3.363,88.646V101.1a3.456,3.456,0,0,0,3.456,3.456H19.276a88.909,88.909,0,0,1,19.142,2.213A49.023,49.023,0,1,0,49.782,9.89Z" fill="#3a4852"/>
+        <circle id="Elipse_11835" data-name="Elipse 11835" cx="7.593" cy="7.593" r="7.593" transform="translate(18.355 53.879)" fill="#fff"/>
+        <circle id="Elipse_11836" data-name="Elipse 11836" cx="7.593" cy="7.593" r="7.593" transform="translate(39.828 53.879)" fill="#fff"/>
+        <circle id="Elipse_11837" data-name="Elipse 11837" cx="7.593" cy="7.593" r="7.593" transform="translate(61.301 53.879)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

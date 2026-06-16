@@ -7,6 +7,37 @@
         span 16
       h1 Tema 3
 
+
+
+
+
+    .tit.mb-5(data-aos="fade-right")
+      img(src='@/assets/curso/temas/t1/sub.svg')
+      h3.mb-0
+
+    .tit.mb-5(data-aos="fade-right")
+      img(src='@/assets/curso/temas/t1/sub.svg')
+      h3.mb-0
+
+
+    .tit.mb-5(data-aos="fade-right")
+      img(src='@/assets/curso/temas/t1/sub.svg')
+      h3.mb-0
+
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+      .col-lg-10
+        .titulo-sexto.mb-4
+          h5 Tabla .
+          | 
+        .tabla-a.tab1.mb-3
+        
+        figcaption #[b Nota.]
+
+
+
+
+
 </template>
 
 <script>
