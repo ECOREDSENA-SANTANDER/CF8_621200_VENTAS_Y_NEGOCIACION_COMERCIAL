@@ -52,13 +52,13 @@
         figcaption #[b Nota.] Adaptada de Laudon y Traver (2018).
 
     .row.justify-content-center.mb-0(data-aos="fade-right") 
-      .col-lg-6.col-md-6.mb-lg-0.mb-4
+      .col-lg-6.col-md-6.mb-lg-0.mb-4.mb-md-0
         .bg6.p-lg-5.p-4.h-100
           img.img-t.img-a.mb-4(src='@/assets/curso/temas/t6/2.svg', alt='')
           .bg8.p-1.mb-4 
             h4.mb-0.text-center Ventajas
           p.mb-0 Las plataformas comerciales ofrecen diferentes beneficios tanto para las empresas como para los consumidores, especialmente en entornos digitales. Entre sus principales ventajas se encuentra el mayor alcance, ya que permiten a las empresas llegar a clientes en diferentes regiones. También brindan disponibilidad, facilitando la compra y venta de productos en cualquier momento. Además, contribuyen a la reducción de costos, al disminuir los gastos asociados a espacios físicos de venta. Finalmente, ofrecen facilidad de promoción, ya que permiten utilizar diversas herramientas de #[em marketing] digital para dar a conocer productos o servicios.
-      .col-lg-6.col-md-6.mb-lg-0.mb-4
+      .col-lg-6.col-md-6.mb-lg-0.mb-0
         .bg7.p-lg-5.p-4.h-100
           img.img-t.img-a.mb-4(src='@/assets/curso/temas/t6/3.svg', alt='')
           .bg9.p-1.mb-4 

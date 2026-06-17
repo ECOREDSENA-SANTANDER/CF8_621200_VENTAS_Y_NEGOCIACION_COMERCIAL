@@ -12,7 +12,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .row.justify-content.align-items
-          .col-lg-5.col-md-9.col-12.mb-lg-0.mb-0.pe-lg-0(data-aos="fade-right")
+          .col-lg-5.col-md-9.col-12.mb-lg-0.mb-0.pe-lg-0.d-none.d-lg-block(data-aos="fade-right")
             img(src='@/assets/curso/temas/t4/1.png', alt='')
           .col-lg-7.ps-lg-0(data-aos="fade-left")
             .bg44.mb-0.p-lg-5.p-4

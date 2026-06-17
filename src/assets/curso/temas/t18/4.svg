@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="64" viewBox="0 0 40 64">
+  <g id="Grupo_1205220" data-name="Grupo 1205220" transform="translate(-831 -1890.678)">
+    <g id="_x32_7_magnet" transform="translate(819 1890.678)">
+      <g id="Grupo_1204920" data-name="Grupo 1204920">
+        <path id="Trazado_1266161" data-name="Trazado 1266161" d="M40,44a8,8,0,0,1-16,0V36H12v8a20,20,0,0,0,40,0V36H40Z" fill="#445130"/>
+        <path id="Trazado_1266162" data-name="Trazado 1266162" d="M51,27H41a1,1,0,0,0-1,1v6H52V28A1,1,0,0,0,51,27Z" fill="#445130"/>
+        <path id="Trazado_1266163" data-name="Trazado 1266163" d="M24,28a1,1,0,0,0-1-1H13a1,1,0,0,0-1,1v6H24Z" fill="#445130"/>
+        <circle id="Elipse_11839" data-name="Elipse 11839" cx="4" cy="4" r="4" transform="translate(15 3)" fill="#445130"/>
+        <circle id="Elipse_11840" data-name="Elipse 11840" cx="4" cy="4" r="4" transform="translate(41 3)" fill="#445130"/>
+        <circle id="Elipse_11841" data-name="Elipse 11841" cx="5" cy="5" r="5" transform="translate(27)" fill="#445130"/>
+        <path id="Trazado_1266164" data-name="Trazado 1266164" d="M23,19a2.006,2.006,0,0,0,2,2H39a2.006,2.006,0,0,0,2-2V16a6.02,6.02,0,0,0-4.367-5.767,6.957,6.957,0,0,1-9.266,0A6.02,6.02,0,0,0,23,16Z" fill="#445130"/>
+        <path id="Trazado_1266165" data-name="Trazado 1266165" d="M14,19h7V16a7.92,7.92,0,0,1,.994-3.824,5.919,5.919,0,0,1-7.02-.739A4.993,4.993,0,0,0,12,16v1a2.006,2.006,0,0,0,2,2Z" fill="#445130"/>
+        <path id="Trazado_1266166" data-name="Trazado 1266166" d="M49.026,11.437a5.919,5.919,0,0,1-7.02.739A7.92,7.92,0,0,1,43,16v3h7a2.006,2.006,0,0,0,2-2V16A4.993,4.993,0,0,0,49.026,11.437Z" fill="#445130"/>
+      </g>
+    </g>
+  </g>
+</svg>

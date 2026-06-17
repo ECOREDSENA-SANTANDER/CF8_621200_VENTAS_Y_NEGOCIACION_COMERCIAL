@@ -41,7 +41,7 @@ figcaption
 .banner-principal
   @media (max-width: $bp-max-md)
     .tarjeta
-      background-image: url('../assets/curso/portada/tablet.svg') !important
+      background-image: url('../assets/curso/portada/tablet.png') !important
       background-repeat: no-repeat
       background-size: cover
       background-position: center
@@ -50,7 +50,7 @@ figcaption
       padding-right: 5% !important
   @media (max-width: 767px) 
     .tarjeta
-      background-image: url('../assets/curso/portada/movil.svg') !important
+      background-image: url('../assets/curso/portada/movil.png') !important
       background-repeat: no-repeat
       background-size: cover
       background-position: center
@@ -59,7 +59,7 @@ figcaption
       padding-right: 5% !important
       margin-bottom: 10% !important
 .banner-interno__fondo    
-  background-image: url("../assets/curso/portada/portada.svg") !important
+  background-image: url("../assets/curso/portada/portada.png") !important
 
 .banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6 
   color: black
@@ -87,7 +87,6 @@ figcaption
 
 .banner-interno__titulo__icono i 
   color: black
-
 
 
 .bg1
@@ -122,9 +121,6 @@ figcaption
   @media only screen and (min-width: 768px) and (max-width: 1023px)
     min-height: auto
 
-
-
-
 .bg5
   background-color: #3A4852
   width: fit-content
@@ -140,40 +136,12 @@ figcaption
 .bg9
   background-color: #A6CDEC
 
+.bg10
+  background-color: #E4F0F9
+  border-radius: 10px
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.bg11
+  background-color: #E4F0F9
 
 .cajon.color-secundario 
   background-color: #E5EFD6
@@ -189,7 +157,7 @@ figcaption
   position: relative
   display: inline-flex !important
   align-items: center
-  @media only screen and (min-width: 768px) and (max-width: 1023px)
+  @media only screen and (max-width: 1023px)
     height: 55px
     padding: 0 20px 0 65px
 .tit img
@@ -286,6 +254,12 @@ figcaption
   .cel
     display: none
 
+@media only screen and (min-width: 768px) and (max-width: 1023px)
+  .p-5.fon
+    padding: 2.5rem !important
+@media only screen and (max-width: 767px)
+  .p-5.fon
+    padding: 1.1rem !important
 .fondo1
   background: url('../assets/curso/temas/t7/fondo1.png')
   background-size: 100% 50%
@@ -389,26 +363,84 @@ figcaption
   background-color: #AACA79
   border-radius: 8px
 
+.color-acento-botones
+  .tabs-a__tab
+    padding: 12px 13px
+    font-size: 16px  
+    white-space: normal 
+    line-height: 1.5
+    min-height: 40px 
+  @media (min-width: 1200px) 
+    .col-xl-3
+      flex: 0 0 auto
+      width: 27%
+    .col-xl-9
+      flex: 0 0 auto
+      width: 73%
+.tabs-a__tab:last-child 
+  margin-bottom: 0 !important
+  background-color: #36DBE6
+  color: black !important
+.color-a
+  background-color: #C2F4F8
+  border-radius: 10px
+.tabs-a.color-acento-botones .tabs-a__tab__selected 
+  background-color: #AACA79!important
+  color: black !important
+.tabs-a.color-acento-botones .tabs-a__tab__selected:before 
+  background-color: #AACA79 !important
+.color-acento-botones .tabs-a__tab 
+    padding: 9px 15px
+    font-size: 16px
 
+.tarjeta--slyder.b2
+  background-color: #ffffff
+  border-radius: 20px
+  box-shadow:  0px 0px 5px 5px rgba(0, 0, 0, 0.09)
+  margin: 5px
+  height: 98%
+.circl-arrow .slyder-f__btn i
+  font-size: 1.2rem
+  background-color: #36DBE6
+  color: #12263F
+  height: 45px
+  width: 45px
+  padding: 5px
+  border-radius: 500px
+  display: flex
+  justify-content: center
+  align-items: center
 
+.fondo5
+  background: url('../assets/curso/temas/t18/fondo5.png')
+  background-size: 100% 95%
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.4rem
+  margin-top: -30px
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem
+  @media screen and (max-width: 767px)
+    margin-inline: -2.4rem
+    margin-right: -2rem
+    margin-left: -2rem
+    background-size:  100% 100%
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.fondo6
+  background: url('../assets/curso/temas/t19/fondo6.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.4rem
+  margin-top: -60px
+  margin-bottom: -48px !important
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem
+  @media screen and (max-width: 767px)
+    margin-inline: -2.4rem
+    margin-right: -2rem
+    margin-left: -2rem
+    background-size:  100% 100%
 
 
 //////////////////////////////////////TABLAS////////////////////////////////////
@@ -449,3 +481,48 @@ figcaption
     width: 70%
 .bgr
   background-color: #F6F6F6
+
+.tabla-a.tab2
+  tbody
+    //td:first-child
+      font-weight: bold
+    td
+      border-left: 2.5px solid #AFAFAF
+    td:first-child
+      border-left: none
+  th:nth-child(1)
+    width: 21%
+  th:nth-child(2)
+    width: 52%
+  th:nth-child(3)
+    width: 27%
+
+.tabla-a.tab3
+  tbody
+    //td:first-child
+      font-weight: bold
+    td
+      border-left: 2.5px solid #AFAFAF
+    td:first-child
+      border-left: none
+  th:nth-child(1)
+    width: 23%
+  th:nth-child(2)
+    width: 52%
+  th:nth-child(3)
+    width: 25%
+
+.tabla-a.tab4
+  tbody
+    //td:first-child
+      font-weight: bold
+    td
+      border-left: 2.5px solid #AFAFAF
+    td:first-child
+      border-left: none
+  th:nth-child(1)
+    width: 28%
+  th:nth-child(2)
+    width: 44%
+  th:nth-child(3)
+    width: 28%

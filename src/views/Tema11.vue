@@ -8,7 +8,7 @@
       h1 ADN de marca
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t11/1.svg', alt='')
       .col-lg-8
         p.mb-4 El ADN de marca representa la esencia que define la identidad y personalidad de una marca. Está compuesto por los valores, principios y características que guían todas las acciones de comunicación y #[em marketing] de la empresa. Por ejemplo, la marca Nike se caracteriza por asociar su ADN con la superación, el rendimiento y la inspiración deportiva.
@@ -117,7 +117,7 @@
       h3.mb-0 Etiqueta
 
     .row.justify-content-center.align-items-end.mb-0
-      .col-lg-4
+      .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t11/4.png', alt='')
       .col-lg-8
         p.mb-3 La etiqueta es el elemento informativo que se coloca en los productos para comunicar información relevante al consumidor.

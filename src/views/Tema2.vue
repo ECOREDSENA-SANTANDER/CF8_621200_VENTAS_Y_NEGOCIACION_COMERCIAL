@@ -8,7 +8,7 @@
       h1 Estructura organizacional
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t2/1.svg')
       .col-lg-8
         p.mb-4 La estructura organizacional es la forma en que una empresa organiza, distribuye y coordina sus actividades, responsabilidades y niveles de autoridad para lograr sus objetivos. Define cómo se dividen las tareas, quién toma las decisiones y cómo fluye la comunicación dentro de la organización.
@@ -83,7 +83,7 @@
         .row.justify-content.align-items-center.mb-0
           .col-lg-8.pe-lg-0
             .bg2.p-4.pe-lg-5.mb-0
-              p.mb-lg-5.mt-lg-5.pe-lg-5 Existen empresas en Colombia dedicadas a la construcción o ensamblaje de vehículos, que se caracterizan por la excelente división del trabajo, ya que existen áreas especializadas como producción, calidad, logística y comercialización, lo que facilita una operación eficiente y coordinada.
+              p.mb-lg-5.mt-lg-5.pe-lg-5.mb-0 Existen empresas en Colombia dedicadas a la construcción o ensamblaje de vehículos, que se caracterizan por la excelente división del trabajo, ya que existen áreas especializadas como producción, calidad, logística y comercialización, lo que facilita una operación eficiente y coordinada.
           .col-lg-5.mnl-1.d-none.d-lg-block(data-aos="fade-left")
             img(src='@/assets/curso/temas/t2/6.png', alt='')
 
@@ -166,7 +166,7 @@
         p.mb-4 Esta herramienta permite identificar de manera clara la jerarquía empresarial, los canales de comunicación y las responsabilidades asignadas a cada área de trabajo. Además, facilita la comprensión de la estructura interna de la empresa, fortalece la coordinación entre dependencias y contribuye a una gestión organizacional más eficiente.
         .cajon.color-secundario.p-lg-5.p-4.mb-0(data-aos="fade-left")
           p.mb-0 Para el complementar toda esta información, lo invitamos a visitar el siguiente pódcast donde analizará la importancia de estudiar las organizaciones y las estrategias comerciales.
-      .col-lg-4
+      .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t2/7.png', alt='')
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")

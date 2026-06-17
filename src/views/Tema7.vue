@@ -16,7 +16,7 @@
           .bloque-texto-g__texto.p-lg-5.p-md-4.p-4
             p.mb-0 El plan comercial es una herramienta de gestión que permite organizar y orientar las acciones de una empresa para alcanzar sus objetivos de ventas y posicionamiento en el mercado. A través de este plan se establecen estrategias, metas y actividades que guían las decisiones comerciales de la organización.
     
-    .row.fondo1.p-4.mb-5(data-aos="fade-down")
+    .row.fondo1.p-5.fon.mb-5(data-aos="fade-down")
       .col-lg-12
 
         .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
@@ -129,14 +129,14 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .row.justify-content.align-items
-          .col-lg-5.col-md-9.col-12.mb-lg-0.mb-0.pe-lg-0(data-aos="fade-right")
+          .col-lg-5.col-md-9.col-12.mb-lg-0.mb-0.pe-lg-0.d-none.d-lg-block(data-aos="fade-right")
             img(src='@/assets/curso/temas/t7/6.png', alt='')
           .col-lg-7.ps-lg-0(data-aos="fade-left")
             .bg4.mb-0.p-4
-              .bg5.p-2.mb-4.mx-3
+              .bg5.p-2.mb-4.mx-lg-3
                 h4.mb-0.text-white.ps-3.pe-3 Tácticas
-              p.mb-4.mx-3 Las tácticas son acciones específicas que se desarrollan para implementar las estrategias comerciales. A diferencia de las estrategias, las tácticas se enfocan en actividades concretas y de corto plazo que contribuyen al logro de los objetivos.
-              p.mb-0.mx-3 Por ejemplo, algunas tácticas pueden incluir campañas publicitarias, promociones de ventas, participación en eventos comerciales, publicaciones en redes sociales o programas de fidelización de clientes.
+              p.mb-4.mx-lg-3 Las tácticas son acciones específicas que se desarrollan para implementar las estrategias comerciales. A diferencia de las estrategias, las tácticas se enfocan en actividades concretas y de corto plazo que contribuyen al logro de los objetivos.
+              p.mb-0.mx-lg-3 Por ejemplo, algunas tácticas pueden incluir campañas publicitarias, promociones de ventas, participación en eventos comerciales, publicaciones en redes sociales o programas de fidelización de clientes.
 
     .tit.mb-5(data-aos="fade-right")
       img(src='@/assets/curso/temas/t1/sub.svg')
@@ -148,7 +148,7 @@
         p.mb-4 Entre las actividades más comunes se encuentran la elaboración de material promocional, la realización de campañas publicitarias, el contacto con clientes potenciales, el seguimiento de ventas y la evaluación de resultados comerciales.
         .cajon.color-secundario.p-lg-5.p-4.mb-0(data-aos="fade-left")
           p.mb-0 Para elaborar un plan comercial es necesario seguir un proceso organizado que permita analizar el mercado, definir los objetivos de la empresa y planificar las acciones comerciales. Este proceso facilita la toma de decisiones y orienta la implementación de estrategias que contribuyan al logro de los resultados comerciales.
-      .col-lg-4
+      .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t7/7.svg', alt='')
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")

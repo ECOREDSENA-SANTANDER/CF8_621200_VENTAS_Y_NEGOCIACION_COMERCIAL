@@ -12,13 +12,13 @@
         p.mb-4 El mercadeo es una función estratégica fundamental dentro de las organizaciones, ya que permite identificar las necesidades y expectativas de los consumidores, analizar las dinámicas del mercado y diseñar estrategias orientadas a la promoción y comercialización de productos o servicios. Mediante el mercadeo, las empresas comprenden el comportamiento del consumidor, fortalecen la relación con sus clientes y desarrollan acciones que contribuyen al posicionamiento y reconocimiento de la marca en el mercado. 
         .cajon.color-secundario.p-lg-5.p-4.mb-0(data-aos="fade-left")
           p.mb-0 El mercadeo facilita la toma de decisiones relacionadas con precios, canales de distribución, comunicación y estrategias publicitarias, permitiendo a las organizaciones adaptarse a los cambios del entorno y mejorar su competitividad. A continuación, se presentan el concepto, los objetivos, los beneficios y algunas estrategias de mercadeo utilizadas en las organizaciones.
-      .col-lg-4
+      .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t3/1.png', alt='')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .row.justify-content.align-items
-          .col-lg-5.col-md-9.col-12.mb-lg-0.mb-0.pe-lg-0(data-aos="fade-right")
+          .col-lg-5.col-md-9.col-12.mb-lg-0.mb-0.pe-lg-0.d-none.d-lg-block(data-aos="fade-right")
             img(src='@/assets/curso/temas/t3/2.png', alt='')
           .col-lg-7.ps-lg-0(data-aos="fade-left")
             .bg4.mb-0.p-lg-5.p-4
@@ -27,7 +27,7 @@
               p.mb-0 Se entiende como el conjunto de actividades, procesos y estrategias     orientadas a analizar el mercado, identificar las necesidades de los consumidores y     ofrecer productos o servicios que generen valor y satisfacción. Su propósito     principal es facilitar el intercambio entre las organizaciones y los clientes,     contribuyendo al cumplimiento de los objetivos comerciales y al fortalecimiento de     las relaciones con el mercado.
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t3/3.svg', alt='')
       .col-lg-8
         p.mb-4 Este proceso involucra actividades como la investigación de mercados, la segmentación de clientes, el diseño y mejoramiento de productos o servicios, la definición de precios, la selección de canales de distribución y la implementación de estrategias de promoción y comunicación. Estas acciones permiten a las organizaciones comprender las necesidades del consumidor y desarrollar propuestas de valor orientadas a la satisfacción del cliente y al fortalecimiento de su competitividad en el mercado.

@@ -26,13 +26,13 @@
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-11
                 p.mb-4 El #[em branding] se refiere al conjunto de estrategias y acciones orientadas a construir, posicionar y fortalecer una marca en la mente de los consumidores. Su objetivo es generar reconocimiento, confianza y una conexión emocional con el público.
-                p.mb-4 Una estrategia de #[em branding] busca que la marca sea fácilmente identificable y que se diferencie de sus competidores dentro del mercado. 
-                img(src='@/assets/curso/temas/t12/2.png', alt='')
+                p.mb-lg-4.mb-0 Una estrategia de #[em branding] busca que la marca sea fácilmente identificable y que se diferencie de sus competidores dentro del mercado. 
+                img.d-none.d-lg-block(src='@/assets/curso/temas/t12/2.png', alt='')
           .p-lg-5.p-4.fd3(titulo="Diseño")
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-11
-                .row.justify-content-.mb-0
-                  .col-lg-6.mb-lg-0.mb-4
+                .row.justify-content-center.mb-0
+                  .col-lg-6.mb-0
                     p.mb-4 El diseño de marca corresponde al desarrollo de los elementos visuales que representan a una empresa. Estos elementos permiten transmitir la personalidad de la marca y facilitar su reconocimiento. Entre los aspectos más importantes del diseño de marca se encuentran:
                     ul.lista-ul.mb-0
                       li.d-flex.mb-0
@@ -50,7 +50,7 @@
                       li.d-flex.mb-0
                         i.fas.fa-circle-check
                         p.mb-0 Diseño de materiales de comunicación.
-                  .col-lg-6
+                  .col-lg-6.d-none.d-lg-block
                     img(src='@/assets/curso/temas/t12/3.png', alt='')
           .p-lg-5.p-4.fd3(titulo="Elementos")
             .row.justify-content-center.align-items-center.mb-0
@@ -94,7 +94,7 @@
         .row.justify-content.align-items-center.mb-0
           .col-lg-8.pe-lg-0
             .bg2.p-4.pe-lg-5.mb-0
-              ul.lista-ul.mb-lg-5.mt-lg-5.pe-lg-5.mx-lg-2
+              ul.lista-ul.mb-lg-5.mt-lg-5.pe-lg-5.mx-lg-2.mb-0
                 li.d-flex.mb-0
                   i.fas.fa-circle-check
                   p.mb-0 Identidad de marca.
@@ -113,9 +113,9 @@
     .titulo-linea.mb-4(data-aos="fade-right")
       h3.mb-0.ps-2.pe-2 Posicionamiento en el mercado
 
-    p.mb-4 Cuando estos elementos se integran correctamente, la marca logra transmitir un mensaje claro y consistente.
+    p.mb-5 Cuando estos elementos se integran correctamente, la marca logra transmitir un mensaje claro y consistente.
 
-    .row.fondo33.p-5.mb-0(data-aos="fade-down")
+    .row.fondo33.p-5.fon.mb-0(data-aos="fade-down")
       .col-lg-12
         .row.justify-content-center.align-items-center.mb-0
           .col-lg-8
@@ -140,7 +140,7 @@
                 li.d-flex.mb-0
                   i.fas.fa-circle-check
                   p.mb-0 Contribuye al posicionamiento en el mercado.
-          .col-lg-4
+          .col-lg-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/t12/5.png', alt='')
 
 

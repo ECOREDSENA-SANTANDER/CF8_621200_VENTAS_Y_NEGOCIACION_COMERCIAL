@@ -12,20 +12,20 @@
         p.mb-4 La comunicación comercial es un proceso mediante el cual las empresas transmiten información sobre sus productos, servicios o marcas al mercado. A través de la comunicación comercial, las organizaciones buscan informar, persuadir y recordar a los consumidores sobre las características y beneficios de su oferta. 
         .cajon.color-secundario.p-lg-5.p-4.mb-0(data-aos="fade-left")
           p.mb-0 Una comunicación efectiva permite fortalecer la relación con los clientes, mejorar el posicionamiento de la marca y apoyar las estrategias de promoción y ventas.
-      .col-lg-4
+      .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t8/1.png', alt='')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .row.justify-content.align-items
-          .col-lg-5.col-md-9.col-12.mb-lg-0.mb-0.pe-lg-0(data-aos="fade-right")
+          .col-lg-5.col-md-9.col-12.mb-lg-0.mb-0.pe-lg-0.d-none.d-lg-block(data-aos="fade-right")
             img(src='@/assets/curso/temas/t8/2.png', alt='')
           .col-lg-7.ps-lg-0(data-aos="fade-left")
             .bg44.mb-0.p-4
-              .bg5.p-2.mb-3.mx-2
+              .bg5.p-2.mb-3.mx-lg-2
                 h4.mb-0.text-white.ps-3.pe-3 Concepto
-              p.mb-3.mx-2 La comunicación comercial se refiere al conjunto de acciones y herramientas que utilizan las empresas para transmitir mensajes al público con el objetivo de promocionar productos o servicios y establecer relaciones con los clientes.
-              p.mb-0.mx-2 Este proceso implica la emisión de mensajes claros y estratégicos a través de diferentes canales de comunicación, como publicidad, redes sociales, relaciones públicas o promociones de ventas. Por ejemplo, una empresa puede utilizar campañas publicitarias en redes sociales para informar a los clientes sobre nuevos productos o promociones disponibles.
+              p.mb-3.mx-lg-2 La comunicación comercial se refiere al conjunto de acciones y herramientas que utilizan las empresas para transmitir mensajes al público con el objetivo de promocionar productos o servicios y establecer relaciones con los clientes.
+              p.mb-0.mx-lg-2 Este proceso implica la emisión de mensajes claros y estratégicos a través de diferentes canales de comunicación, como publicidad, redes sociales, relaciones públicas o promociones de ventas. Por ejemplo, una empresa puede utilizar campañas publicitarias en redes sociales para informar a los clientes sobre nuevos productos o promociones disponibles.
 
     .tit.mb-5(data-aos="fade-right")
       img(src='@/assets/curso/temas/t1/sub.svg')
@@ -100,7 +100,7 @@
         .row.justify-content.align-items-center.mb-0
           .col-lg-8.pe-lg-0
             .bg2.p-4.pe-lg-5.mb-0
-              ul.lista-ul.mb-lg-5.mt-lg-5.pe-lg-5.mx-lg-2
+              ul.lista-ul.mb-lg-5.mt-lg-5.pe-lg-5.mx-lg-2.mb-0
                 li.d-flex.mb-0
                   i.fas.fa-circle-check
                   p.mb-0 Informar a los consumidores sobre productos o servicios.
@@ -119,7 +119,7 @@
           .col-lg-5.mnl-1.d-none.d-lg-block(data-aos="fade-left")
             img(src='@/assets/curso/temas/t8/3.png', alt='')
 
-    .row.fondo2.p-4.mb-5(data-aos="fade-down")
+    .row.fondo2.p-5.fon.mb-5(data-aos="fade-down")
       .col-lg-12
         .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
           .col-lg-5
@@ -148,7 +148,7 @@
 
     p.mb-4 El canal es el medio a través del cual se transmite el mensaje al público objetivo. Las empresas pueden utilizar diferentes canales según el tipo de producto, el público objetivo y la estrategia de comunicación.
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-10
         .titulo-sexto.mb-4
           h5 Tabla 19.
@@ -173,10 +173,6 @@
                 td Sitios web
                 td Espacios digitales donde las empresas presentan información sobre sus productos o servicios.
         figcaption #[b Nota.] Adaptada de Kotler y Armstrong (2017).
-
-
-
-
 
 
 </template>

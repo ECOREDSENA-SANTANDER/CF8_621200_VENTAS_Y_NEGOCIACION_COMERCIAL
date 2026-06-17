@@ -12,7 +12,7 @@
         p.mb-4 La estrategia de comunicación es un proceso mediante el cual las organizaciones planifican la forma en que transmitirán información sobre sus productos, servicios o marca al público objetivo. Esta estrategia permite coordinar los mensajes, seleccionar los medios adecuados y establecer acciones que faciliten una comunicación clara y efectiva con los consumidores.
         .cajon.color-secundario.p-lg-5.p-4.mb-0(data-aos="fade-left")
           p.mb-0 Una adecuada estrategia de comunicación contribuye al fortalecimiento de la imagen de la empresa, mejora la relación con los clientes y apoya las actividades de promoción y posicionamiento en el mercado.
-      .col-lg-4
+      .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t9/1.png', alt='')
 
     .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5

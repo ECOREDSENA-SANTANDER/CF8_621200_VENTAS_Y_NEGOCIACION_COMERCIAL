@@ -7,7 +7,7 @@
         span 10
       h1 Marca y construcción de identidad
 
-    .row.fondo3.p-5.mb-0(data-aos="fade-down")
+    .row.fondo3.p-5.fon.mb-0(data-aos="fade-down")
       .col-lg-12
         .row.justify-content-center.align-items-end.mb-0
           .col-lg-8
@@ -29,7 +29,7 @@
                 li.d-flex.mb-0
                   i.fas.fa-circle-check
                   p.mb-0 Crear valor y posicionamiento en el mercado.
-          .col-lg-4
+          .col-lg-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/t10/1.png', alt='')
 
 

@@ -68,7 +68,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Características del diagnóstico organizacional
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-end.mb-5
       .col-lg-8
         p.mb-4 El diagnóstico organizacional posee una serie de características que lo convierten en una herramienta fundamental para el análisis empresarial y la formulación de estrategias comerciales; estas características permiten garantizar que el proceso de evaluación sea estructurado, confiable y orientado a la toma de decisiones.
         p.mb-4 Entre las principales características del diagnóstico organizacional se encuentran las siguientes:
@@ -90,7 +90,7 @@
             p.mb-0 #[b Participativo:] puede involucrar a diferentes áreas y niveles de la organización en el proceso de análisis.
           li.d-flex.mb-0
       .col-lg-4.d-none.d-lg-block
-        img(src="@/assets/curso/temas/t1/3.png", alt="Descripción imagen")
+        img.mb-lg-1(src="@/assets/curso/temas/t1/3.png", alt="Descripción imagen")
 
     p.mb-5 Estas características permiten que el diagnóstico organizacional se convierta en una herramienta clave para el desarrollo de estrategias comerciales y la planificación de campañas promocionales alineadas con la realidad empresarial.
 

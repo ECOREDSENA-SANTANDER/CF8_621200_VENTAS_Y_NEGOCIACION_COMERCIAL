@@ -12,7 +12,7 @@
         p.mb-4 El #[em target] o grupo objetivo corresponde al segmento específico del mercado al que una organización dirige sus productos, servicios o estrategias de comunicación; este grupo se define a partir de características comunes como la edad, el nivel socioeconómico, los intereses, los hábitos de consumo, el estilo de vida o la ubicación geográfica de los consumidores.
         .cajon.color-secundario.p-lg-5.p-4.mb-0(data-aos="fade-left")
           p.mb-0 Identificar el #[em target] permite a las organizaciones diseñar estrategias de mercadeo más efectivas, desarrollar productos acordes con las necesidades del cliente y establecer canales de comunicación adecuados para llegar de manera más precisa al público objetivo.
-      .col-lg-4
+      .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t5/1.svg', alt='')
 
     .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
@@ -101,7 +101,7 @@
         .row.justify-content.align-items-center.mb-0
           .col-lg-8.pe-lg-0
             .bg2.p-4.pe-lg-5.mb-0
-              p.mb-lg-5.mt-lg-5.pe-lg-5 #[b Concepto:] El posicionamiento se entiende como la estrategia mediante la cual una organización busca que su producto, servicio o marca permanezca en la mente del consumidor con una imagen específica y diferenciada frente a la competencia. Por ejemplo, algunas marcas del sector automotriz se han posicionado por la seguridad y confiabilidad de sus vehículos, mientras que otras organizaciones del sector de bebidas energéticas han orientado su posicionamiento hacia el deporte, la energía y el alto rendimiento físico.
+              p.mb-lg-5.mt-lg-5.pe-lg-5.mb-0 #[b Concepto:] El posicionamiento se entiende como la estrategia mediante la cual una organización busca que su producto, servicio o marca permanezca en la mente del consumidor con una imagen específica y diferenciada frente a la competencia. Por ejemplo, algunas marcas del sector automotriz se han posicionado por la seguridad y confiabilidad de sus vehículos, mientras que otras organizaciones del sector de bebidas energéticas han orientado su posicionamiento hacia el deporte, la energía y el alto rendimiento físico.
           .col-lg-5.mnl-1.d-none.d-lg-block(data-aos="fade-left")
             img(src='@/assets/curso/temas/t5/3.png', alt='')
 
