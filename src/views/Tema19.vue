@@ -7,7 +7,7 @@
         span 19
       h1 #[em Social media marketing]
 
-    p.mb-4 El uso estratégico de las redes sociales permite a las organizaciones aumentar la visibilidad de la marca, mejorar la comunicación con los consumidores y desarrollar comunidades digitales alrededor de sus productos o servicios.
+    p.mb-4(data-aos="fade-right") El uso estratégico de las redes sociales permite a las organizaciones aumentar la visibilidad de la marca, mejorar la comunicación con los consumidores y desarrollar comunidades digitales alrededor de sus productos o servicios.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-9
@@ -96,7 +96,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Métricas
 
-    p.mb-4 No todas las métricas en redes sociales cumplen la misma función dentro de una estrategia digital. Cada una responde a objetivos específicos y proporciona información diferente sobre el comportamiento de los usuarios y el desempeño de los contenidos. Por ello, es importante clasificarlas según su propósito, lo que facilita su interpretación y análisis. A continuación, se presenta una clasificación general de las métricas más utilizadas en redes sociales.
+    p.mb-4(data-aos="fade-left") No todas las métricas en redes sociales cumplen la misma función dentro de una estrategia digital. Cada una responde a objetivos específicos y proporciona información diferente sobre el comportamiento de los usuarios y el desempeño de los contenidos. Por ello, es importante clasificarlas según su propósito, lo que facilita su interpretación y análisis. A continuación, se presenta una clasificación general de las métricas más utilizadas en redes sociales.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -173,7 +173,7 @@
           .col-lg-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/t19/3.png', alt='')
         
-        .row.justify-content-center.align-items-center.mb-0
+        .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
           .col-lg-8
             .cajon.color-secundario.p-lg-5.p-4.mb-0
               p.mb-0 La correcta interpretación de métricas, apoyada en tecnología, fortalece la gestión estratégica del contenido digital y evita decisiones basadas en percepción subjetiva.

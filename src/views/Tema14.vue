@@ -7,7 +7,7 @@
         span 14
       h1 Material publicitario
     
-    p.mb-4 El material publicitario es el conjunto de recursos y piezas de comunicación que una empresa utiliza para promocionar sus productos, servicios o marca. Su función es transmitir mensajes de forma visual, escrita o audiovisual para informar, persuadir y captar la atención del público. En #[em marketing], puede presentarse en formatos impresos o digitales, según el medio y el objetivo de la campaña.
+    p.mb-4(data-aos="fade-right") El material publicitario es el conjunto de recursos y piezas de comunicación que una empresa utiliza para promocionar sus productos, servicios o marca. Su función es transmitir mensajes de forma visual, escrita o audiovisual para informar, persuadir y captar la atención del público. En #[em marketing], puede presentarse en formatos impresos o digitales, según el medio y el objetivo de la campaña.
 
     .row.fondo3.p-5.fon.mb-5(data-aos="fade-down")
       .col-lg-12
@@ -38,7 +38,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Clases
     
-    p.mb-4 Las clases de material publicitario pueden diferenciarse según su finalidad dentro de la comunicación comercial. En la práctica, una misma campaña puede combinar varias de estas clases para lograr mayor impacto. Algunas de las más utilizadas son:
+    p.mb-4(data-aos="fade-left") Las clases de material publicitario pueden diferenciarse según su finalidad dentro de la comunicación comercial. En la práctica, una misma campaña puede combinar varias de estas clases para lograr mayor impacto. Algunas de las más utilizadas son:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10

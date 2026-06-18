@@ -7,7 +7,7 @@
         span 2
       h1 Estructura organizacional
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t2/1.svg')
       .col-lg-8
@@ -47,7 +47,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Componentes de la estructura organizacional
     
-    p.mb-4 La estructura organizacional se compone de varios elementos que permiten organizar el funcionamiento interno de la empresa, en la siguiente tabla se enuncian al detalle:
+    p.mb-4(data-aos="fade-right") La estructura organizacional se compone de varios elementos que permiten organizar el funcionamiento interno de la empresa, en la siguiente tabla se enuncian al detalle:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -78,7 +78,7 @@
                 td Flujo de información entre niveles y departamentos.
         figcaption #[b Nota.] Adaptada de Robbins y Coulter (2005).
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
         .row.justify-content.align-items-center.mb-0
           .col-lg-8.pe-lg-0
@@ -91,7 +91,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Tipos de la estructura organizacional
     
-    p.mb-4 Las organizaciones pueden adoptar diferentes tipos de estructuras según su tamaño, estrategia y tipo de actividad. A continuación, se presentan algunos de los tipos de estructuras organizacionales más utilizados en las empresas.
+    p.mb-4(data-aos="fade-right") Las organizaciones pueden adoptar diferentes tipos de estructuras según su tamaño, estrategia y tipo de actividad. A continuación, se presentan algunos de los tipos de estructuras organizacionales más utilizados en las empresas.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -119,13 +119,13 @@
                 td Reduce niveles jerárquicos para favorecer la comunicación y la innovación.
         figcaption #[b Nota.] Adaptada de Mintzberg (1989); Robbins y Coulter (2005); Chiavenato (2006).
     
-    p.mb-5 Cada estructura presenta ventajas y se selecciona de acuerdo con las necesidades de coordinación, control y toma de decisiones dentro de la empresa.
+    p.mb-5(data-aos="fade-right") Cada estructura presenta ventajas y se selecciona de acuerdo con las necesidades de coordinación, control y toma de decisiones dentro de la empresa.
 
-    .tit.mb-5(data-aos="fade-right")
+    .tit.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Áreas funcionales
     
-    p.mb-4 Las áreas funcionales son los departamentos en los que se divide una empresa para realizar actividades específicas. Cada área cumple un papel fundamental en el funcionamiento de la organización. La idea es que, cada área funcional trabaje de manera coordinada: el área de diseño desarrolla los productos, producción los fabrica, #[em marketing] los posiciona en el mercado y finanzas gestiona los recursos para su desarrollo.
+    p.mb-4(data-aos="fade-right") Las áreas funcionales son los departamentos en los que se divide una empresa para realizar actividades específicas. Cada área cumple un papel fundamental en el funcionamiento de la organización. La idea es que, cada área funcional trabaje de manera coordinada: el área de diseño desarrolla los productos, producción los fabrica, #[em marketing] los posiciona en el mercado y finanzas gestiona los recursos para su desarrollo.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -160,7 +160,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Organigrama
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
         p.mb-3 El organigrama es una representación gráfica de la estructura organizacional de una empresa, en la cual se visualizan los diferentes niveles jerárquicos, las relaciones de autoridad y la distribución de las áreas o departamentos que conforman la organización.
         p.mb-4 Esta herramienta permite identificar de manera clara la jerarquía empresarial, los canales de comunicación y las responsabilidades asignadas a cada área de trabajo. Además, facilita la comprensión de la estructura interna de la empresa, fortalece la coordinación entre dependencias y contribuye a una gestión organizacional más eficiente.

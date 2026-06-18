@@ -7,7 +7,7 @@
         span 13
       h1 Tema 3
 
-    .row.justify-content-center.align-items-end.mb-5
+    .row.justify-content-center.align-items-end.mb-5(data-aos="fade-right")
       .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t13/1.png', alt='')
       .col-lg-8
@@ -15,7 +15,7 @@
         .cajon.color-secundario.p-lg-5.p-4.mb-0(data-aos="fade-left")
           p.mb-0 Las campañas promocionales utilizan diferentes medios de comunicación, como publicidad en redes sociales, televisión, radio, internet o medios impresos, con el fin de transmitir un mensaje claro y persuasivo dirigido a un público específico. Por ejemplo, una campaña promocional común es el #[em Black Friday], donde muchas empresas lanzan descuentos especiales y promociones para incentivar las compras.
 
-    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-9
         TabsA.color-acento-botones.mb-0
           .tarjeta.color-a.p-4(titulo="Concepto")

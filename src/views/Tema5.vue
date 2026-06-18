@@ -7,7 +7,7 @@
         span 5
       h1 #[em Target] (grupo objetivo)
 
-    .row.justify-content-center.align-items-end.mb-5
+    .row.justify-content-center.align-items-end.mb-5(data-aos="fade-right")
       .col-lg-8
         p.mb-4 El #[em target] o grupo objetivo corresponde al segmento específico del mercado al que una organización dirige sus productos, servicios o estrategias de comunicación; este grupo se define a partir de características comunes como la edad, el nivel socioeconómico, los intereses, los hábitos de consumo, el estilo de vida o la ubicación geográfica de los consumidores.
         .cajon.color-secundario.p-lg-5.p-4.mb-0(data-aos="fade-left")
@@ -28,7 +28,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Tipos
     
-    p.mb-4 El público objetivo puede clasificarse de diferentes formas según las características del mercado y los criterios utilizados para segmentarlo.
+    p.mb-4(data-aos="fade-right") El público objetivo puede clasificarse de diferentes formas según las características del mercado y los criterios utilizados para segmentarlo.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -60,7 +60,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Métodos
 
-    p.mb-4 Para identificar el público objetivo, las empresas utilizan diferentes métodos que permiten analizar el mercado y comprender mejor a los consumidores.
+    p.mb-4(data-aos="fade-left") Para identificar el público objetivo, las empresas utilizan diferentes métodos que permiten analizar el mercado y comprender mejor a los consumidores.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -92,9 +92,9 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Posicionamiento
 
-    p.mb-4 El posicionamiento es una estrategia de mercadeo orientada a lograr que una marca, producto o servicio ocupe un lugar claro, diferenciador y significativo en la mente de los consumidores. Su propósito es que los clientes identifiquen fácilmente las características, beneficios y valores que distinguen a una organización frente a otras opciones disponibles en el mercado.
+    p.mb-4(data-aos="fade-right") El posicionamiento es una estrategia de mercadeo orientada a lograr que una marca, producto o servicio ocupe un lugar claro, diferenciador y significativo en la mente de los consumidores. Su propósito es que los clientes identifiquen fácilmente las características, beneficios y valores que distinguen a una organización frente a otras opciones disponibles en el mercado.
 
-    p.mb-4 Un adecuado posicionamiento contribuye al reconocimiento de la marca, fortalece la relación con los consumidores y favorece la preferencia de compra. Para ello, las organizaciones desarrollan estrategias basadas en aspectos como la calidad, la innovación, el precio, el servicio al cliente, la experiencia de uso o los atributos diferenciadores de sus productos y servicios.
+    p.mb-4(data-aos="fade-left") Un adecuado posicionamiento contribuye al reconocimiento de la marca, fortalece la relación con los consumidores y favorece la preferencia de compra. Para ello, las organizaciones desarrollan estrategias basadas en aspectos como la calidad, la innovación, el precio, el servicio al cliente, la experiencia de uso o los atributos diferenciadores de sus productos y servicios.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -109,7 +109,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Estrategias
 
-    p.mb-4 Las empresas pueden aplicar diferentes estrategias para posicionar sus productos o servicios y diferenciarse frente a la competencia. Estas estrategias permiten destacar atributos, beneficios o características que facilitan el reconocimiento de la marca en el mercado.
+    p.mb-4(data-aos="fade-right") Las empresas pueden aplicar diferentes estrategias para posicionar sus productos o servicios y diferenciarse frente a la competencia. Estas estrategias permiten destacar atributos, beneficios o características que facilitan el reconocimiento de la marca en el mercado.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -150,7 +150,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Beneficios
     
-    p.mb-4 El posicionamiento genera diferentes beneficios para las organizaciones, ya que permite fortalecer la identidad de marca y mejorar su reconocimiento en el mercado. A continuación, se presentan algunos de los principales beneficios del posicionamiento.
+    p.mb-4(data-aos="fade-right") El posicionamiento genera diferentes beneficios para las organizaciones, ya que permite fortalecer la identidad de marca y mejorar su reconocimiento en el mercado. A continuación, se presentan algunos de los principales beneficios del posicionamiento.
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-10

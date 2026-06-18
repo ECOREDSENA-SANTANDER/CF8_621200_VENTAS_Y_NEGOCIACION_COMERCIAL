@@ -24,7 +24,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Tipos
     
-    p.mb-4 Los recursos de apoyo pueden clasificarse según su función dentro de las actividades comerciales y de #[em marketing].
+    p.mb-4(data-aos="fade-right") Los recursos de apoyo pueden clasificarse según su función dentro de las actividades comerciales y de #[em marketing].
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -62,7 +62,7 @@
       .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t16/2.png', alt='')
       .col-lg-8
-        p.mb-4 El uso adecuado de recursos de apoyo ofrece diferentes beneficios para laempresas, ya que facilita la ejecución de estrategias comerciales y mejora lcomunicación con el mercado. Entre los principales beneficios se encuentran:
+        p.mb-4(data-aos="fade-left") El uso adecuado de recursos de apoyo ofrece diferentes beneficios para laempresas, ya que facilita la ejecución de estrategias comerciales y mejora lcomunicación con el mercado. Entre los principales beneficios se encuentran:
         .bg1.p-4
           ul.lista-ul.mb-0
             li.d-flex.mb-0
@@ -81,10 +81,6 @@
               i.fas.fa-circle-check
               p.mb-0 #[b Apoyo a la toma de decisiones:] proporcionan información y herramientas que facilitan la planificación estratégica.
           
-
-
-
-
 
 </template>
 

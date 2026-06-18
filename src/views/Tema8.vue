@@ -7,7 +7,7 @@
         span 8
       h1 Comunicación comercial
 
-    .row.justify-content-center.align-items-end.mb-5
+    .row.justify-content-center.align-items-end.mb-5(data-aos="fade-right")
       .col-lg-8
         p.mb-4 La comunicación comercial es un proceso mediante el cual las empresas transmiten información sobre sus productos, servicios o marcas al mercado. A través de la comunicación comercial, las organizaciones buscan informar, persuadir y recordar a los consumidores sobre las características y beneficios de su oferta. 
         .cajon.color-secundario.p-lg-5.p-4.mb-0(data-aos="fade-left")
@@ -31,7 +31,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Técnicas
     
-    p.mb-4 Las empresas utilizan diversas técnicas de comunicación comercial para captar la atención del público y promover sus productos o servicios.
+    p.mb-4(data-aos="fade-right") Las empresas utilizan diversas técnicas de comunicación comercial para captar la atención del público y promover sus productos o servicios.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -63,7 +63,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Clases
     
-    p.mb-4 La comunicación comercial puede clasificarse según los medios o estrategias utilizadas para transmitir el mensaje.
+    p.mb-4(data-aos="fade-left") La comunicación comercial puede clasificarse según los medios o estrategias utilizadas para transmitir el mensaje.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -93,9 +93,9 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Usos
 
-    p.mb-4 La comunicación comercial se utiliza para diferentes propósitos dentro de las organizaciones. Entre los usos más importantes se encuentran:
+    p.mb-4(data-aos="fade-left") La comunicación comercial se utiliza para diferentes propósitos dentro de las organizaciones. Entre los usos más importantes se encuentran:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10
         .row.justify-content.align-items-center.mb-0
           .col-lg-8.pe-lg-0
@@ -146,7 +146,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Canal
 
-    p.mb-4 El canal es el medio a través del cual se transmite el mensaje al público objetivo. Las empresas pueden utilizar diferentes canales según el tipo de producto, el público objetivo y la estrategia de comunicación.
+    p.mb-4(data-aos="fade-right") El canal es el medio a través del cual se transmite el mensaje al público objetivo. Las empresas pueden utilizar diferentes canales según el tipo de producto, el público objetivo y la estrategia de comunicación.
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-10

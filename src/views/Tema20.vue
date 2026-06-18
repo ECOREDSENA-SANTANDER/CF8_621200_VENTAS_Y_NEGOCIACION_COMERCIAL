@@ -7,9 +7,9 @@
         span 20
       h1 #[em E-business]
 
-    p.mb-5 El #[em e-business] o negocio electrónico consiste en el uso de internet y tecnologías digitales para realizar y gestionar actividades empresariales. Incluye no solo la compra y venta de productos en línea, sino también procesos como #[em marketing] digital, comunicación con clientes y gestión de operaciones mediante plataformas tecnológicas. Este modelo permite a las empresas ampliar su alcance, mejorar la eficiencia de sus procesos y adaptarse a las nuevas formas de consumo en entornos digitales.
+    p.mb-5(data-aos="fade-right") El #[em e-business] o negocio electrónico consiste en el uso de internet y tecnologías digitales para realizar y gestionar actividades empresariales. Incluye no solo la compra y venta de productos en línea, sino también procesos como #[em marketing] digital, comunicación con clientes y gestión de operaciones mediante plataformas tecnológicas. Este modelo permite a las empresas ampliar su alcance, mejorar la eficiencia de sus procesos y adaptarse a las nuevas formas de consumo en entornos digitales.
 
-    .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
+    .row.justify-content-center.align-items-center(data-aos="fade-left").mb-5
       .col-lg-12
         .bloque-texto-g.color-secundario.p-3.p-lg-5.p-md-4
           .bloque-texto-g__img(
@@ -25,7 +25,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Tipos
 
-    p.mb-4 El #[em e-business] puede clasificarse según los actores que participan en las transacciones comerciales o en los procesos digitales de negocio.
+    p.mb-4(data-aos="fade-right") El #[em e-business] puede clasificarse según los actores que participan en las transacciones comerciales o en los procesos digitales de negocio.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10

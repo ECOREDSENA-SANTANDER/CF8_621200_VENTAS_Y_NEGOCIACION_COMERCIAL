@@ -7,17 +7,17 @@
         span 17
       h1 Presupuesto
 
-    p.mb-5 El presupuesto es un elemento fundamental dentro de la planificación comercial y de #[em marketing], ya que permite estimar y organizar los recursos económicos necesarios para ejecutar estrategias, campañas promocionales y actividades de comunicación comercial. A través del presupuesto, las organizaciones pueden asignar recursos de forma eficiente, controlar los gastos y evaluar el retorno de las inversiones realizadas en #[em marketing].
+    p.mb-5(data-aos="fade-right") El presupuesto es un elemento fundamental dentro de la planificación comercial y de #[em marketing], ya que permite estimar y organizar los recursos económicos necesarios para ejecutar estrategias, campañas promocionales y actividades de comunicación comercial. A través del presupuesto, las organizaciones pueden asignar recursos de forma eficiente, controlar los gastos y evaluar el retorno de las inversiones realizadas en #[em marketing].
 
     .tit.mb-5(data-aos="fade-right")
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Concepto
 
-    p.mb-4 El presupuesto es una estimación financiera que establece los recursos económicos necesarios para desarrollar una actividad, proyecto o campaña dentro de un período determinado. En el ámbito del #[em marketing] y la gestión comercial, el presupuesto permite planificar los costos asociados a publicidad, promoción, producción de materiales, contratación de medios y ejecución de estrategias de #[em marketing]. Un presupuesto bien estructurado contribuye a la toma de decisiones estratégicas, facilita la planificación de actividades y garantiza que las acciones comerciales se desarrollen dentro de los recursos disponibles.
+    p.mb-4(data-aos="fade-left") El presupuesto es una estimación financiera que establece los recursos económicos necesarios para desarrollar una actividad, proyecto o campaña dentro de un período determinado. En el ámbito del #[em marketing] y la gestión comercial, el presupuesto permite planificar los costos asociados a publicidad, promoción, producción de materiales, contratación de medios y ejecución de estrategias de #[em marketing]. Un presupuesto bien estructurado contribuye a la toma de decisiones estratégicas, facilita la planificación de actividades y garantiza que las acciones comerciales se desarrollen dentro de los recursos disponibles.
 
-    p.mb-5 Por ejemplo, una empresa que desea lanzar una campaña promocional en redes sociales debe definir un presupuesto que incluya costos de diseño de piezas publicitarias, inversión en publicidad digital, producción de contenido y herramientas tecnológicas necesarias para la gestión de la campaña.
+    p.mb-5(data-aos="fade-right") Por ejemplo, una empresa que desea lanzar una campaña promocional en redes sociales debe definir un presupuesto que incluya costos de diseño de piezas publicitarias, inversión en publicidad digital, producción de contenido y herramientas tecnológicas necesarias para la gestión de la campaña.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
         img(src='@/assets/curso/temas/t17/1.png', alt='')
 
@@ -25,7 +25,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Estructura
 
-    p.mb-4 La estructura del presupuesto permite organizar de manera clara los diferentes gastos que se requieren para desarrollar una estrategia comercial o campaña promocional. Esta estructura facilita el control financiero y la evaluación de los resultados obtenidos.
+    p.mb-4(data-aos="fade-left") La estructura del presupuesto permite organizar de manera clara los diferentes gastos que se requieren para desarrollar una estrategia comercial o campaña promocional. Esta estructura facilita el control financiero y la evaluación de los resultados obtenidos.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -63,7 +63,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Métodos
 
-    p.mb-4 Existen diferentes métodos que las organizaciones utilizan para elaborar presupuestos de #[em marketing] o campañas promocionales. La elección del método depende del tamaño de la empresa, sus objetivos y los recursos disponibles.
+    p.mb-4(data-aos="fade-left") Existen diferentes métodos que las organizaciones utilizan para elaborar presupuestos de #[em marketing] o campañas promocionales. La elección del método depende del tamaño de la empresa, sus objetivos y los recursos disponibles.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -94,7 +94,7 @@
                 td Ajusta el presupuesto del período anterior aumentando o disminuyendo ciertos valores según los resultados obtenidos.
         figcaption #[b Nota.] Adaptada de Kotler y Armstrong (2017); Belch y Belch (2018).
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
         .cajon.color-secundario.p-lg-5.p-4.mb-0
           p.mb-0 El método basado en objetivos y tareas es uno de los más utilizados en #[em marketing], ya que permite relacionar directamente la inversión con las metas comerciales.
@@ -105,7 +105,7 @@
 
     .row.justify-content-center.align-items-end.mb-0
       .col-lg-8
-        p.mb-4 Para elaborar, gestionar y controlar presupuestos comerciales, las empresas utilizan diferentes herramientas tecnológicas que facilitan el cálculo de costos, el seguimiento de gastos y el análisis de resultados. Entre las herramientas más utilizadas se encuentran:
+        p.mb-4(data-aos="fade-left") Para elaborar, gestionar y controlar presupuestos comerciales, las empresas utilizan diferentes herramientas tecnológicas que facilitan el cálculo de costos, el seguimiento de gastos y el análisis de resultados. Entre las herramientas más utilizadas se encuentran:
         ul.lista-ul.mb-4
           li.d-flex.mb-0
             i.fas.fa-circle-check

@@ -93,9 +93,9 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Estrategias
     
-    p.mb-4 Las estrategias comerciales corresponden a las acciones generales que la empresa implementa para alcanzar los objetivos definidos en el plan comercial. Estas estrategias orientan la forma en que la organización competirá en el mercado y cómo ofrecerá valor a los clientes.
+    p.mb-4(data-aos="fade-right") Las estrategias comerciales corresponden a las acciones generales que la empresa implementa para alcanzar los objetivos definidos en el plan comercial. Estas estrategias orientan la forma en que la organización competirá en el mercado y cómo ofrecerá valor a los clientes.
 
-    p.mb-4 Entre las estrategias más utilizadas se encuentran la diferenciación de productos, el desarrollo de promociones, el fortalecimiento de canales de distribución y la implementación de estrategias de #[em marketing] digital.
+    p.mb-4(data-aos="fade-left") Entre las estrategias más utilizadas se encuentran la diferenciación de productos, el desarrollo de promociones, el fortalecimiento de canales de distribución y la implementación de estrategias de #[em marketing] digital.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -142,7 +142,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Actividades
 
-    .row.justify-content-center.align-items-end.mb-5
+    .row.justify-content-center.align-items-end.mb-5(data-aos="fade-right")
       .col-lg-8
         p.mb-4 Las actividades corresponden a las tareas operativas que se ejecutan dentro del plan comercial para llevar a cabo las estrategias y tácticas definidas. Estas actividades se programan dentro de un cronograma y pueden involucrar diferentes áreas de la empresa.
         p.mb-4 Entre las actividades más comunes se encuentran la elaboración de material promocional, la realización de campañas publicitarias, el contacto con clientes potenciales, el seguimiento de ventas y la evaluación de resultados comerciales.

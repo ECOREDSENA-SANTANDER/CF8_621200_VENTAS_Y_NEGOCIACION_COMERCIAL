@@ -7,7 +7,7 @@
         span 3
       h1 Mercadeo
 
-    .row.justify-content-center.align-items-end.mb-5
+    .row.justify-content-center.align-items-end.mb-5(data-aos="fade-right")
       .col-lg-8
         p.mb-4 El mercadeo es una función estratégica fundamental dentro de las organizaciones, ya que permite identificar las necesidades y expectativas de los consumidores, analizar las dinámicas del mercado y diseñar estrategias orientadas a la promoción y comercialización de productos o servicios. Mediante el mercadeo, las empresas comprenden el comportamiento del consumidor, fortalecen la relación con sus clientes y desarrollan acciones que contribuyen al posicionamiento y reconocimiento de la marca en el mercado. 
         .cajon.color-secundario.p-lg-5.p-4.mb-0(data-aos="fade-left")
@@ -26,7 +26,7 @@
                 h4.mb-0.text-white.ps-3.pe-3 El mercadeo
               p.mb-0 Se entiende como el conjunto de actividades, procesos y estrategias     orientadas a analizar el mercado, identificar las necesidades de los consumidores y     ofrecer productos o servicios que generen valor y satisfacción. Su propósito     principal es facilitar el intercambio entre las organizaciones y los clientes,     contribuyendo al cumplimiento de los objetivos comerciales y al fortalecimiento de     las relaciones con el mercado.
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t3/3.svg', alt='')
       .col-lg-8
@@ -35,7 +35,7 @@
         .bg1.p-4
           p.mb-0.mx-lg-2 En este recurso audiovisual explica cómo la comunicación integral de #[em marketing] articula procesos de publicidad, promoción, relaciones públicas y comunicación organizacional, permitiendo que las empresasz estrategias centradas en las necesidades del cliente y alineadas con los objetivos organizacionales.
 
-    .row.justify-content-center.align-items-center.mb-5          
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")          
       .col-lg-12
         figure
           .video
@@ -46,7 +46,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Objetivos del mercadeo
     
-    p.mb-4 El mercadeo cumple diferentes objetivos dentro de la gestión empresarial, orientados a comprender el mercado y fortalecer las estrategias comerciales de la organización.
+    p.mb-4(data-aos="fade-right") El mercadeo cumple diferentes objetivos dentro de la gestión empresarial, orientados a comprender el mercado y fortalecer las estrategias comerciales de la organización.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -81,7 +81,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Beneficios
     
-    p.mb-4 La implementación de estrategias de mercadeo genera múltiples beneficios para las organizaciones, ya que facilita la comprensión del entorno comercial y contribuye al desarrollo de ventajas competitivas.
+    p.mb-4(data-aos="fade-left") La implementación de estrategias de mercadeo genera múltiples beneficios para las organizaciones, ya que facilita la comprensión del entorno comercial y contribuye al desarrollo de ventajas competitivas.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -116,9 +116,9 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Estrategias
 
-    p.mb-4 Las estrategias de mercadeo son acciones planificadas que permiten a las organizaciones posicionar sus productos o servicios, atraer clientes y fortalecer su presencia en el mercado.
+    p.mb-4(data-aos="fade-right") Las estrategias de mercadeo son acciones planificadas que permiten a las organizaciones posicionar sus productos o servicios, atraer clientes y fortalecer su presencia en el mercado.
 
-    p.mb-4 Entre las estrategias más utilizadas se encuentran las siguientes:
+    p.mb-4(data-aos="fade-left") Entre las estrategias más utilizadas se encuentran las siguientes:
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-10

@@ -7,7 +7,7 @@
         span 9
       h1 Estrategia de comunicación
 
-    .row.justify-content-center.align-items-end.mb-5
+    .row.justify-content-center.align-items-end.mb-5(data-aos="fade-right")
       .col-lg-8
         p.mb-4 La estrategia de comunicación es un proceso mediante el cual las organizaciones planifican la forma en que transmitirán información sobre sus productos, servicios o marca al público objetivo. Esta estrategia permite coordinar los mensajes, seleccionar los medios adecuados y establecer acciones que faciliten una comunicación clara y efectiva con los consumidores.
         .cajon.color-secundario.p-lg-5.p-4.mb-0(data-aos="fade-left")
@@ -30,13 +30,13 @@
             br
             p.mb-0 Su finalidad es garantizar que la información llegue al consumidor adecuado, utilizando los canales apropiados y con mensajes que permitan informar, persuadir o recordar la presencia de la marca en el mercado.
 
-    p.mb-5 En el contexto comercial, esta estrategia se relaciona directamente con las actividades de marketing, ya que permite comunicar los beneficios de los productos o servicios y fortalecer el posicionamiento de la empresa frente a la competencia.
+    p.mb-5(data-aos="fade-right") En el contexto comercial, esta estrategia se relaciona directamente con las actividades de marketing, ya que permite comunicar los beneficios de los productos o servicios y fortalecer el posicionamiento de la empresa frente a la competencia.
 
     .tit.mb-5(data-aos="fade-right")
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Tipos
 
-    p.mb-4 Las empresas pueden aplicar diferentes tipos de estrategias de comunicación según los objetivos que desean alcanzar y el público al que se dirigen.
+    p.mb-4(data-aos="fade-left") Las empresas pueden aplicar diferentes tipos de estrategias de comunicación según los objetivos que desean alcanzar y el público al que se dirigen.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -68,7 +68,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Componentes
     
-    p.mb-4 Para diseñar una estrategia de comunicación efectiva es necesario considerar diversos elementos que permiten organizar el proceso de transmisión del mensaje hacia el público objetivo.
+    p.mb-4(data-aos="fade-right") Para diseñar una estrategia de comunicación efectiva es necesario considerar diversos elementos que permiten organizar el proceso de transmisión del mensaje hacia el público objetivo.
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-10

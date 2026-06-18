@@ -7,7 +7,7 @@
         span 18
       h1 #[em Marketing] digital
 
-    p.mb-5 El #[em marketing] digital integra las estrategias comerciales desarrolladas en entornos digitales con el propósito de atraer, convertir y fidelizar clientes mediante el uso de tecnologías, plataformas #[em online] y análisis de datos. Su principal ventaja radica en la segmentación precisa, la medición en tiempo real y la optimización constante de resultados. En la planeación del contenido digital, el #[em marketing] digital permite articular objetivos organizacionales con acciones comunicacionales medibles y orientadas al rendimiento.
+    p.mb-5(data-aos="fade-right") El #[em marketing] digital integra las estrategias comerciales desarrolladas en entornos digitales con el propósito de atraer, convertir y fidelizar clientes mediante el uso de tecnologías, plataformas #[em online] y análisis de datos. Su principal ventaja radica en la segmentación precisa, la medición en tiempo real y la optimización constante de resultados. En la planeación del contenido digital, el #[em marketing] digital permite articular objetivos organizacionales con acciones comunicacionales medibles y orientadas al rendimiento.
 
     .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
       .col-lg-12
@@ -21,13 +21,13 @@
             br
             p.mb-0 En este contexto, la comunicación es bidireccional: las organizaciones emiten mensajes y, al mismo tiempo, reciben retroalimentación inmediata a través de comentarios, interacciones y datos de comportamiento. Por ejemplo, plataformas como Netflix analizan los hábitos de visualización de los usuarios para recomendar contenido personalizado, convirtiendo la experiencia en un elemento estratégico de fidelización. De esta manera, el #[em marketing] digital transforma la relación tradicional empresa–cliente en un proceso dinámico basado en datos, interacción y generación de valor.
 
-    .tit.mb-5(data-aos="fade-right")
+    .tit.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Características
 
-    p.mb-4 El #[em marketing] digital se sostiene en principios que garantizan coherencia estratégica y efectividad operativa:
+    p.mb-4(data-aos="fade-right") El #[em marketing] digital se sostiene en principios que garantizan coherencia estratégica y efectividad operativa:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
         .row.justify-content.align-items-center.mb-0
           .col-lg-8.pe-lg-0
@@ -55,9 +55,9 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Estrategias
     
-    p.mb-4 Las estrategias del #[em marketing] digital definen la dirección general de las acciones implementadas en los entornos digitales, alineándolas con metas organizacionales específicas y permitiendo fortalecer la presencia de la marca, atraer clientes y generar relaciones sostenibles con los públicos objetivo.
+    p.mb-4(data-aos="fade-right") Las estrategias del #[em marketing] digital definen la dirección general de las acciones implementadas en los entornos digitales, alineándolas con metas organizacionales específicas y permitiendo fortalecer la presencia de la marca, atraer clientes y generar relaciones sostenibles con los públicos objetivo.
 
-    p.mb-4 Entre las principales estrategias se destacan:
+    p.mb-4(data-aos="fade-left") Entre las principales estrategias se destacan:
 
     .row.fondo5.p-5.fon.mb-4(data-aos="fade-down")
       .col-lg-12
@@ -69,7 +69,7 @@
               .tarjeta.tarjeta--slyder.b2.p-4
                 .row.justify-content-center.align-items-center.mb-4.mt-5
                   .col-12
-                    img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/temas/t18/4.svg' alt='AvatarTop')
+                    img.img-a.img-t(src='@/assets/curso/temas/t18/4.svg' alt='AvatarTop')
                 .row.justify-content-center.align-items-center.mb-3
                   .col-12
                     .bg8.p-1.mb-4 
@@ -78,7 +78,7 @@
               .tarjeta.tarjeta--slyder.b2.p-4
                 .row.justify-content-center.align-items-center.mb-3.mt-5
                   .col-12
-                    img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/temas/t18/5.svg' alt='AvatarTop')
+                    img.img-a.img-t(src='@/assets/curso/temas/t18/5.svg' alt='AvatarTop')
                 .row.justify-content-center.align-items-center.mb-3
                   .col-12
                     .bg8.p-1.mb-4 
@@ -87,7 +87,7 @@
               .tarjeta.tarjeta--slyder.b2.p-4
                 .row.justify-content-center.align-items-center.mb-3.mt-5
                   .col-12
-                    img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/temas/t18/6.svg' alt='AvatarTop')
+                    img.img-a.img-t(src='@/assets/curso/temas/t18/6.svg' alt='AvatarTop')
                 .row.justify-content-center.align-items-center.mb-3
                   .col-12
                     .bg8.p-1.mb-4 
@@ -96,7 +96,7 @@
               .tarjeta.tarjeta--slyder.b2.p-4
                 .row.justify-content-center.align-items-center.mb-3.mt-5
                   .col-12
-                    img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/temas/t18/7.svg' alt='AvatarTop')
+                    img.img-a.img-t(src='@/assets/curso/temas/t18/7.svg' alt='AvatarTop')
                 .row.justify-content-center.align-items-center.mb-3
                   .col-12
                     .bg8.p-1.mb-4 
@@ -110,11 +110,11 @@
           |  Estrategias clave del #[em marketing] digital.
         img.img-t.img-a(src='@/assets/curso/temas/t18/8.svg',alt='Establece las estrategias clave del e-marketing. Atracción: contenido de valor para captar tráfico cualificado. Posicionamiento digital: optimización para fortalecer visibilidad y autoridad. Conversión: acciones que transforman visitantes en clientes.Fidelización: estrategias para mantener relaciones y recompra.')
 
-    p.mb-4 En cuanto a las tácticas, son las acciones concretas que permiten ejecutar las estrategias definidas. Representan el nivel operativo del #[em e-marketing] y se apoyan en herramientas tecnológicas específicas.
+    p.mb-4(data-aos="fade-right") En cuanto a las tácticas, son las acciones concretas que permiten ejecutar las estrategias definidas. Representan el nivel operativo del #[em e-marketing] y se apoyan en herramientas tecnológicas específicas.
 
-    p.mb-4 Entre las tácticas más relevantes se encuentran:
+    p.mb-4(data-aos="fade-left") Entre las tácticas más relevantes se encuentran:
 
-    .row.justify-content-center.align-items-end.mb-5
+    .row.justify-content-center.align-items-end.mb-5(data-aos="fade-right")
       .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t18/9.png', alt='')
       .col-lg-8  
@@ -141,7 +141,7 @@
         .cajon.color-secundario.p-lg-5.p-4.mb-0
           p.mb-0 #[b Nota:] el #[em remarketing] comprende estrategias orientadas a impactar nuevamente a usuarios que previamente han interactuado con la marca, visitado el sitio web o mostrado interés en productos y servicios, con el propósito de fortalecer la conversión y fidelización.
         
-    p.mb-0 Mientras la estrategia define el rumbo, las tácticas materializan la ejecución mediante herramientas y acciones específicas.
+    p.mb-0(data-aos="fade-right") Mientras la estrategia define el rumbo, las tácticas materializan la ejecución mediante herramientas y acciones específicas.
 
 
 </template>

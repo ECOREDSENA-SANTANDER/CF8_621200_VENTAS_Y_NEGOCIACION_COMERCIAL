@@ -87,9 +87,9 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Estructura
 
-    p.mb-4 La estructura del #[em branding] se refiere a la forma en que se organizan y relacionan los diferentes elementos de la marca para crear una identidad coherente. Esta estructura suele incluir:
+    p.mb-4(data-aos="fade-left") La estructura del #[em branding] se refiere a la forma en que se organizan y relacionan los diferentes elementos de la marca para crear una identidad coherente. Esta estructura suele incluir:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10
         .row.justify-content.align-items-center.mb-0
           .col-lg-8.pe-lg-0
@@ -113,7 +113,7 @@
     .titulo-linea.mb-4(data-aos="fade-right")
       h3.mb-0.ps-2.pe-2 Posicionamiento en el mercado
 
-    p.mb-5 Cuando estos elementos se integran correctamente, la marca logra transmitir un mensaje claro y consistente.
+    p.mb-5(data-aos="fade-left") Cuando estos elementos se integran correctamente, la marca logra transmitir un mensaje claro y consistente.
 
     .row.fondo33.p-5.fon.mb-0(data-aos="fade-down")
       .col-lg-12

@@ -7,7 +7,7 @@
         span 15
       h1 #[em Brief] (documento resumen)
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t15/1.svg', alt='')
       .col-lg-8
@@ -21,7 +21,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Estructura
 
-    p.mb-4 El #[em brief] se compone de diferentes elementos que permiten organizar la información clave de un proyecto o campaña promocional. Estos elementos facilitan la planificación de las estrategias de #[em marketing] y comunicación.
+    p.mb-4(data-aos="fade-left") El #[em brief] se compone de diferentes elementos que permiten organizar la información clave de un proyecto o campaña promocional. Estos elementos facilitan la planificación de las estrategias de #[em marketing] y comunicación.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -60,7 +60,7 @@
                 td Indicadores de evaluación
                 td Criterios utilizados para medir los resultados de la campaña.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
         .cajon.color-secundario.p-lg-5.p-4.mb-0
           p.mb-0 Una estructura clara del #[em brief] permite que todos los participantes del proyecto comprendan los objetivos y la estrategia de comunicación que se desea implementar.
@@ -69,7 +69,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Métodos
 
-    p.mb-4 La elaboración de un #[em brief] requiere recopilar información relevante sobre la empresa, el mercado y los consumidores. Para ello se utilizan diferentes métodos que facilitan la organización de la información.
+    p.mb-4(data-aos="fade-left") La elaboración de un #[em brief] requiere recopilar información relevante sobre la empresa, el mercado y los consumidores. Para ello se utilizan diferentes métodos que facilitan la organización de la información.
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-10

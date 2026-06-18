@@ -7,9 +7,9 @@
         span 1
       h1 Diagnóstico organizacional
     
-    p.mb-5 El diagnóstico organizacional permite evaluar la situación de una empresa y orientar la toma de decisiones estratégicas. En #[em marketing] y gestión comercial, contribuye a identificar factores que afectan el desempeño organizacional, como fortalezas, debilidades, oportunidades y amenazas. A continuación, se presentan el concepto, los tipos, las características y las técnicas del diagnóstico organizacional, así como sus ventajas y limitaciones en el contexto empresarial.
+    p.mb-5(data-aos="fade-right") El diagnóstico organizacional permite evaluar la situación de una empresa y orientar la toma de decisiones estratégicas. En #[em marketing] y gestión comercial, contribuye a identificar factores que afectan el desempeño organizacional, como fortalezas, debilidades, oportunidades y amenazas. A continuación, se presentan el concepto, los tipos, las características y las técnicas del diagnóstico organizacional, así como sus ventajas y limitaciones en el contexto empresarial.
     
-    .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
+    .row.justify-content-center.align-items-center(data-aos="fade-left").mb-5
       .col-lg-12
         .bloque-texto-g.color-secundario.p-3.p-lg-5.p-md-4
           .bloque-texto-g__img(
@@ -18,14 +18,14 @@
           .bloque-texto-g__texto.p-lg-5.p-md-4.p-4
             p.mb-0 #[b Concepto:] el diagnóstico organizacional es un proceso de análisis que permite evaluar la situación actual de una empresa, identificando factores internos y externos que influyen en su funcionamiento y desempeño. Su objetivo es generar información que ayude a la toma de decisiones estratégicas. Para ello, se analizan aspectos como la estructura organizacional, los recursos humanos, los procesos operativos, la situación financiera y el posicionamiento en el mercado, con el fin de identificar fortalezas, debilidades, oportunidades y amenazas.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-8
         p.mb-4 Este diagnóstico permite identificar el nivel de preparación de la empresa para competir en el mercado y desarrollar campañas promocionales efectivas; por ejemplo, muchas empresas reconocidas, antes de implementar una estrategia de promoción de ventas, realizan un análisis de su posicionamiento en el mercado, el comportamiento de los consumidores, las tendencias del sector y su capacidad interna para responder adecuadamente a la demanda generada por la campaña.
         p.mb-0 A continuación, diríjase al siguiente video para comprender, desde un enfoque técnico, qué es el diagnóstico organizacional y cómo se utiliza para analizar la situación interna y externa de una empresa, identificando fortalezas, debilidades y oportunidades que orientan la formulación de estrategias empresariales y comerciales.
       .col-lg-4.d-none.d-lg-block
         img(src="@/assets/curso/temas/t1/2.svg", alt="Descripción imagen")
 
-    .row.justify-content-center.align-items-center.mb-5          
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
         figure
           .video
@@ -36,9 +36,9 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Tipos de diagnóstico organizacional
 
-    p.mb-4 El diagnóstico organizacional se clasifica en diferentes tipos según el enfoque de análisis utilizado. Cada tipo permite evaluar aspectos específicos de la organización y su relación con el entorno empresarial. A continuación, se presentan los tipos más utilizados en el análisis organizacional.
+    p.mb-4(data-aos="fade-left") El diagnóstico organizacional se clasifica en diferentes tipos según el enfoque de análisis utilizado. Cada tipo permite evaluar aspectos específicos de la organización y su relación con el entorno empresarial. A continuación, se presentan los tipos más utilizados en el análisis organizacional.
     
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10
         .titulo-sexto.mb-4
           h5 Tabla 1.
@@ -64,11 +64,11 @@
                 td Analiza el desempeño de áreas específicas de la empresa, como #[em marketing],         ventas, producción o finanzas.
         figcaption #[b Nota.] Adaptada de Kotler y Keller (2016); Porter (2009).
 
-    .tit.mb-5(data-aos="fade-right")
+    .tit.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Características del diagnóstico organizacional
     
-    .row.justify-content-center.align-items-end.mb-5
+    .row.justify-content-center.align-items-end.mb-5(data-aos="fade-right")
       .col-lg-8
         p.mb-4 El diagnóstico organizacional posee una serie de características que lo convierten en una herramienta fundamental para el análisis empresarial y la formulación de estrategias comerciales; estas características permiten garantizar que el proceso de evaluación sea estructurado, confiable y orientado a la toma de decisiones.
         p.mb-4 Entre las principales características del diagnóstico organizacional se encuentran las siguientes:
@@ -92,13 +92,13 @@
       .col-lg-4.d-none.d-lg-block
         img.mb-lg-1(src="@/assets/curso/temas/t1/3.png", alt="Descripción imagen")
 
-    p.mb-5 Estas características permiten que el diagnóstico organizacional se convierta en una herramienta clave para el desarrollo de estrategias comerciales y la planificación de campañas promocionales alineadas con la realidad empresarial.
+    p.mb-5(data-aos="fade-left") Estas características permiten que el diagnóstico organizacional se convierta en una herramienta clave para el desarrollo de estrategias comerciales y la planificación de campañas promocionales alineadas con la realidad empresarial.
 
     .tit.mb-5(data-aos="fade-right")
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Elementos del diagnóstico organizacional
 
-    p.mb-4 Estos elementos permiten evaluar de manera estructurada la situación de la empresa, mediante la recopilación y organización de la información relevante. Su análisis facilita la comprensión del funcionamiento de la organización y su relación con el entorno.
+    p.mb-4(data-aos="fade-right") Estos elementos permiten evaluar de manera estructurada la situación de la empresa, mediante la recopilación y organización de la información relevante. Su análisis facilita la comprensión del funcionamiento de la organización y su relación con el entorno.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -136,11 +136,11 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Técnicas del diagnóstico organizacional 
 
-    p.mb-4 Permiten recolectar, examinar e interpretar información relacionada con el funcionamiento de la empresa y su relación con el entorno, lo cual facilita el análisis sistemático de la organización y contribuyen a obtener una comprensión más precisa de su situación actual.
+    p.mb-4(data-aos="fade-left") Permiten recolectar, examinar e interpretar información relacionada con el funcionamiento de la empresa y su relación con el entorno, lo cual facilita el análisis sistemático de la organización y contribuyen a obtener una comprensión más precisa de su situación actual.
     
-    p.mb-4 Entre las técnicas más utilizadas para realizar este tipo de diagnóstico se encuentran las siguientes:
+    p.mb-4(data-aos="fade-right") Entre las técnicas más utilizadas para realizar este tipo de diagnóstico se encuentran las siguientes:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-4.d-none.d-lg-block
         img(src="@/assets/curso/temas/t1/4.png", alt="Descripción imagen")
       .col-lg-8
@@ -161,7 +161,7 @@
             i.fas.fa-circle-check
             p.mb-0 #[b Análisis de la competencia:] estudio de las estrategias, productos, posicionamiento y acciones comerciales de otras empresas que participan en el mismo mercado.
           li.d-flex.mb-0
-    p.mb-4 La aplicación conjunta de estas técnicas permite obtener una visión más completa de la realidad empresarial, lo cual facilita la formulación de estrategias comerciales y el diseño de planes de #[em marketing] alineados con las condiciones del mercado.
+    p.mb-4(data-aos="fade-right") La aplicación conjunta de estas técnicas permite obtener una visión más completa de la realidad empresarial, lo cual facilita la formulación de estrategias comerciales y el diseño de planes de #[em marketing] alineados con las condiciones del mercado.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
@@ -174,7 +174,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Ventajas del diagnóstico organizacional 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
         p.mb-4 El diagnóstico organizacional representa una herramienta importante para las empresas, ya que proporciona información valiosa para comprender la situación actual de la organización y orientar la planificación estratégica. El conocimiento de sus ventajas contribuye a fortalecer los procesos de toma de decisiones y a mejorar la gestión empresarial.
         p.mb-4 Entre los principales beneficios que ofrece el diagnóstico organizacional se encuentran:
@@ -198,13 +198,13 @@
       .col-lg-4.d-none.d-lg-block
         img(src="@/assets/curso/temas/t1/6.png", alt="Descripción imagen")
 
-    p.mb-5 Por ello, el diagnóstico organizacional se convierte en una herramienta fundamental para incrementar la competitividad y mejorar la capacidad de adaptación de las empresas frente a los cambios del mercado.
+    p.mb-5(data-aos="fade-right") Por ello, el diagnóstico organizacional se convierte en una herramienta fundamental para incrementar la competitividad y mejorar la capacidad de adaptación de las empresas frente a los cambios del mercado.
 
-    .tit.mb-5(data-aos="fade-right")
+    .tit.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Desventajas del diagnóstico organizacional
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-8
         p.mb-4 Aunque el diagnóstico organizacional ofrece múltiples beneficios, también puede presentar ciertas limitaciones si no se desarrolla de manera adecuada; estas dificultades suelen relacionarse con el proceso de recolección de información, la interpretación de los datos o los recursos necesarios para llevar a cabo el análisis.
         p.mb-4 Entre las principales desventajas se pueden mencionar:

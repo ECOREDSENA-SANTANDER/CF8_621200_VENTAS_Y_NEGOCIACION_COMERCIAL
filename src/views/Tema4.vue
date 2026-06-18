@@ -7,7 +7,7 @@
         span 4
       h1 Mezcla de mercadeo
     
-    p.mb-5 Reúne un conjunto de variables que las empresas utilizan para diseñar estrategias orientadas a satisfacer las necesidades del mercado y alcanzar objetivos comerciales. Estas variables permiten estructurar la oferta de valor de una organización y orientar las decisiones relacionadas con productos, precios, distribución y promoción.
+    p.mb-5(data-aos="fade-right") Reúne un conjunto de variables que las empresas utilizan para diseñar estrategias orientadas a satisfacer las necesidades del mercado y alcanzar objetivos comerciales. Estas variables permiten estructurar la oferta de valor de una organización y orientar las decisiones relacionadas con productos, precios, distribución y promoción.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -24,7 +24,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Variables 4P (producto, precio, plaza y promoción)
     
-    p.mb-4 Las variables de la mezcla de mercadeo permiten a las empresas diseñar estrategias comerciales integrales para satisfacer las necesidades del mercado.
+    p.mb-4(data-aos="fade-right") Las variables de la mezcla de mercadeo permiten a las empresas diseñar estrategias comerciales integrales para satisfacer las necesidades del mercado.
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-10

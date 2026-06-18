@@ -7,7 +7,7 @@
         span 11
       h1 ADN de marca
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t11/1.svg', alt='')
       .col-lg-8
@@ -35,7 +35,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Identidad visual
 
-    p.mb-5 La identidad visual corresponde al conjunto de elementos gráficos que representan visualmente a la marca. Estos elementos permiten que los consumidores reconozcan fácilmente una empresa o producto.
+    p.mb-5(data-aos="fade-left") La identidad visual corresponde al conjunto de elementos gráficos que representan visualmente a la marca. Estos elementos permiten que los consumidores reconozcan fácilmente una empresa o producto.
 
     .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
       .col-lg-12
@@ -68,9 +68,9 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Manual de identidad
     
-    p.mb-4 El manual de identidad corporativa es un documento que establece las normas y lineamientos para el uso correcto de los elementos visuales de la marca.
+    p.mb-4(data-aos="fade-left") El manual de identidad corporativa es un documento que establece las normas y lineamientos para el uso correcto de los elementos visuales de la marca.
     
-    p.mb-4 Este manual garantiza coherencia en todos los materiales de comunicación de la empresa, como publicidad, redes sociales, empaques o documentos institucionales.
+    p.mb-4(data-aos="fade-right") Este manual garantiza coherencia en todos los materiales de comunicación de la empresa, como publicidad, redes sociales, empaques o documentos institucionales.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -104,19 +104,19 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Símbolos y emblemas
     
-    p.mb-4 Los símbolos y emblemas son representaciones gráficas que forman parte de la identidad visual de una marca y permiten identificarla fácilmente ante el público. Pueden estar representados por logotipos, íconos o figuras asociadas con la empresa, los cuales ayudan a transmitir su personalidad y valores.
+    p.mb-4(data-aos="fade-right") Los símbolos y emblemas son representaciones gráficas que forman parte de la identidad visual de una marca y permiten identificarla fácilmente ante el público. Pueden estar representados por logotipos, íconos o figuras asociadas con la empresa, los cuales ayudan a transmitir su personalidad y valores.
 
-    p.mb-5 Su principal función es facilitar el reconocimiento visual de la marca y fortalecer su posicionamiento en la mente de los consumidores, ya que estos elementos se convierten en referentes visuales fáciles de recordar.
+    p.mb-5(data-aos="fade-left") Su principal función es facilitar el reconocimiento visual de la marca y fortalecer su posicionamiento en la mente de los consumidores, ya que estos elementos se convierten en referentes visuales fáciles de recordar.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         img(src='@/assets/curso/temas/t11/3.png', alt='')
 
-    .tit.mb-5(data-aos="fade-right")
+    .tit.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Etiqueta
 
-    .row.justify-content-center.align-items-end.mb-0
+    .row.justify-content-center.align-items-end.mb-0(data-aos="fade-right")
       .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t11/4.png', alt='')
       .col-lg-8

@@ -7,15 +7,15 @@
         span 6
       h1  Plataformas comerciales
 
-    p.mb-5 Las plataformas comerciales son herramientas tecnológicas que permiten a las empresas ofrecer, promocionar y comercializar productos o servicios a través de medios digitales o físicos. Estas plataformas facilitan la interacción entre empresas y clientes, ampliando las oportunidades de negocio y el alcance en el mercado.
+    p.mb-5(data-aos="fade-right") Las plataformas comerciales son herramientas tecnológicas que permiten a las empresas ofrecer, promocionar y comercializar productos o servicios a través de medios digitales o físicos. Estas plataformas facilitan la interacción entre empresas y clientes, ampliando las oportunidades de negocio y el alcance en el mercado.
 
-    .tit.mb-5(data-aos="fade-right")
+    .tit.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Concepto
     
-    p.mb-4 Las plataformas comerciales son sistemas o espacios, físicos o digitales, que permiten a las empresas presentar, promocionar y vender productos o servicios a los consumidores. Estas plataformas facilitan las transacciones comerciales y la comunicación entre vendedores y clientes.
+    p.mb-4(data-aos="fade-right") Las plataformas comerciales son sistemas o espacios, físicos o digitales, que permiten a las empresas presentar, promocionar y vender productos o servicios a los consumidores. Estas plataformas facilitan las transacciones comerciales y la comunicación entre vendedores y clientes.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
         img(src='@/assets/curso/temas/t6/1.png', alt='')
 
@@ -23,7 +23,7 @@
       img(src='@/assets/curso/temas/t1/sub.svg')
       h3.mb-0 Importancia
 
-    p.mb-4 Las plataformas comerciales tienen un papel fundamental en el desarrollo de las actividades comerciales, ya que permiten ampliar el alcance de las empresas y facilitar el acceso de los consumidores a productos o servicios.
+    p.mb-4(data-aos="fade-left") Las plataformas comerciales tienen un papel fundamental en el desarrollo de las actividades comerciales, ya que permiten ampliar el alcance de las empresas y facilitar el acceso de los consumidores a productos o servicios.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
